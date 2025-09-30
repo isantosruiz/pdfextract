@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Utilidad de línea de comandos para extraer páginas específicas de un archivo PDF.
 
